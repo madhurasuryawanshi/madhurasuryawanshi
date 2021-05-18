@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning ANN for facial expressions
 - 💞️ I’m looking for full time opportunities as a Software Engineer
 - 📫 How to reach me 
-- suryawanshi.madhura18@gmail.com
-- portfolio https://sdemadhura.com
-- LinkedIN https://www.linkedin.com/in/msuryawanshi/
+- email: suryawanshi.madhura18@gmail.com
+- portfolio: https://sdemadhura.com
+- LinkedIN: https://www.linkedin.com/in/msuryawanshi/
 
 <!---
 madhurasuryawanshi/madhurasuryawanshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
