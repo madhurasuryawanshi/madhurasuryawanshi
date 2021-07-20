@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @madhurasuryawanshi
 - 👀 I’m interested in Backend Engineering and Machine Learning
 - 🌱 I’m currently learning ANN for facial expressions
-- 💞️ I’m looking for full time opportunities as a Software Engineer
+- 💞️ Woking as Sogtware Engineer at Glidewell Dental
 - 📫 How to reach me 
 - email: suryawanshi.madhura18@gmail.com
 - portfolio: https://sdemadhura.com
